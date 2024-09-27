@@ -17,6 +17,7 @@ Na estrutura atual só teríamos disponíveis o Power BI e as ferramentas do Goo
 ## Desafios
 
 Com base no cenário e nas ferramentas disponíveis tive os seguintes desafios:
+- As fotos poderiam ser adicionadas/modificadas a qualquer momento e assim o link delas no Google Drive seria criado/modificado. Como consultar esses links em massa para estar sempre com o atual?
 - Para apresentar as fotos no Power BI, os arquivos deveriam estar com a opção de compartilhamento no Google Drive do tipo "Público". Como fazer isso em massa e de tempos em tempos?
-- As fotos poderiam ser adicionadas/modificadas a qualquer momento e assim o link delas no Google Drive seria criado/modificado. Como fazer a captura dos links em massa e tempos em tempos?
+
 
