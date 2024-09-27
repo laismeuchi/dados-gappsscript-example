@@ -1,9 +1,22 @@
 # Apresentação
 
-Nesse projeto, apresento uma demanda que tive em um projeto de BI e como atendi ela utilizando as ferramentas disponíveis no cenário descrito.
+Nesse projeto, apresento uma demanda que tive em um projeto de BI e como atendi a ela utilizando as ferramentas disponíveis no cenário descrito.
 
 ## Demanda
 
-Deveria ser criado um painel no Power BI para ser utilizado em uma reunião de apresentação de andamento de algumas metas a serem cumpridas no semestre.
-A apresentação seria realizada por vários departamentos, assim cada departamento apresentaria seu andamento com a justificativa sobre cada valor.
+A secretaria de governo em que eu trabalho é responsável por realizar uma audiência pública para apresentar o andamento das metas das demais secretarias.
+Essa apresentação deveria consolidar os dados de todas as secretárias em um único painel feito em Power BI que pudesse ser utilizado na apresentação e que ficasse disponivel para a população em geral.
+Além dos dados referentes a essas metas, deveria ser possível apresentar algumas fotos que ilustrassem as respecitvas ações que estavam sendo desenvolvidas.
+
+O cenário era o seguinte: cada secretaria teria uma pasta no Google Drive e deveria preencher as seguintes informações:
+- planilha com os dados de realização das metas
+- imagens que ilustrassem as respecitvas ações
+
+Na estrutura atual só teríamos disponíveis o Power BI e as ferramentas do Google que a secretaria utiliza.
+
+## Desafios
+
+Com base no cenário e nas ferramentas disponíveis tive os seguintes desafios:
+- Para apresentar as fotos no Power BI, os arquivos deveriam estar com a opção de compartilhamento no Google Drive do tipo "Público". Como fazer isso em massa e de tempos em tempos?
+- As fotos poderiam ser adicionadas/modificadas a qualquer momento e assim o link delas no Google Drive seria criado/modificado. Como fazer a captura dos links em massa e tempos em tempos?
 
