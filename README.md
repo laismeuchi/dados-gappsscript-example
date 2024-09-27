@@ -81,15 +81,10 @@ Aqui também ajustei o link da imagem para que ele ficasse no formato que o Powe
 
 ## Considerações Finais
 
-Os scripts foram agendados para execução antes da atualização do Power BI, assim os arquivos já terão a permissão liberada e os links salvos na planilha de consulta.
-
-Algumas melhorias poderiam ser realizadas nesse projeto, como a criação de um projeto só com as duas operações e até a utilização da API para execução deles sem a necessidade de execução agendada.
-Porém como a previsão é de que a próxima apresentação seja realizada consultando uma base de um sistema da secretaria, deixei ele dessa forma para atender somente essa primeira apresentação.
-
-Nesse cenário o Apps Script resolveu muito bem meus desafios e auxiliou a entrega do projeto no tempo e com os requisitos solicitados pelo usuário, sem precisar criar ambiente específico para a demanda e nem outra ferramenta fora do que a secretária já dispõe.
-
 Nem sempre dispomos das ferramentas que gostaríamos de utilizar em nossos projetos e em alguns casos o esforço é maior do que o projeto precisa naquele momento.
 Então buscar soluções simples e aderentes ao problema é sempre uma boa pedida.
+
+Nesse cenário o Apps Script resolveu muito bem meus desafios e auxiliou a entrega do projeto no tempo e com os requisitos solicitados pelo usuário, sem precisar criar ambiente específico para a demanda e nem outra ferramenta fora do que a secretária já dispõe.
 
 A apresentação ainda não foi realizada, assim que ela acontecer eu coloco aqui o link do painel para vocês poderem visualizar também.
 
